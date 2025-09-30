@@ -1,9 +1,36 @@
-# React TypeScript Starter Pack
+# 📝 Interactive Todo App
 
-To use this template click `Use this template`
+A responsive task manager built with React, TypeScript, and SCSS. Users can add, edit, delete, and filter tasks, with data persistence via mock API. Designed for clean UI and fast performance.
 
-### Available Scripts
+🔗 [Live Demo](https://your-demo-link.com)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+Built with:
+- React 18 + TypeScript for typed component architecture
+- Vite for fast development and build
+- SCSS with variables and nesting
+- Bulma for responsive layout
+- FontAwesome for icons
+- classnames for conditional styling
+- GitHub Pages for deployment
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+Features:
+- Add, edit, and delete todos
+- Mark tasks as completed
+- Filter by All / Active / Completed
+- Responsive UI built with Bulma + SCSS
+- Data persistence via mock API
+- Clean UX with intuitive interactions
+
+To run locally:
+```bash
+git clone https://github.com/your-username/interactive-todo-app.git
+```
+```bash
+cd interactive-todo-app
+```
+```bash
+npm install
+```
+```bash
+npm start
+```

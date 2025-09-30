@@ -2,7 +2,7 @@
 
 A responsive task manager built with React, TypeScript, and SCSS. Users can add, edit, delete, and filter tasks, with data persistence via mock API. Designed for clean UI and fast performance.
 
-🔗 [Live Demo](https://your-demo-link.com)
+🔗 [Live Demo](https://davidhurmanchuk.github.io/todo-app/)
 
 Built with:
 - React 18 + TypeScript for typed component architecture
